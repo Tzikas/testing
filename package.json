@@ -17,6 +17,7 @@
     "node": ">= 6",
     "npm": ">= 3"
   },
+  
   "repository": {
     "type": "git",
     "url": "git://github.com/kylealwyn/node-rest-api-boilerplate.git"
